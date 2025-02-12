@@ -1,5 +1,5 @@
 # Reto_9-
-### Se afjunta un archivo en .ipynb con el desarrollo del codigo
+### Se adjunta un archivo en .ipynb con el desarrollo del codigo
 ## Los algoritmos de sorting
 Los algoritmos de sorting son herramientas utilizadas en programacion para ordenadar los elementos de una lista o un arreglo en cierto orden (Ascendente o descendente).
 Los algoritmos de ordenamiento se dividen en dos grandes categorías:
